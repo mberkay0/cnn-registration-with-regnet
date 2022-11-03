@@ -78,4 +78,6 @@ X, Y, Z = reg.register(IX, IY)
 registered = tps_warp(Y, Z, IY, IX.shape)
 ```
 
+You can use the CNN Registration algorithm on Google Colab from the link below. In addition to the algorithm suggested in the article, added another code that can work with each RegNet architecture.
+
 <a href="https://githubtocolab.com/mberkay0/cnn-registration-with-regnet/blob/publish/cnn_registration_with_regnet.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
