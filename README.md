@@ -81,3 +81,16 @@ registered = tps_warp(Y, Z, IY, IX.shape)
 You can use the CNN Registration algorithm on Google Colab from the link below. In addition to the algorithm suggested in the article, added another code that can work with each RegNet architecture.
 
 <a href="https://githubtocolab.com/mberkay0/cnn-registration-with-regnet/blob/publish/cnn_registration_with_regnet.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open in Colab"/></a>
+
+## Additions
+* Colab and Jupyter Notebook support
+* Python3 and tensorflow>=1.14.0 support
+* torch>=1.13.0 and timm==0.6.11 Pytorch models support
+* All RegNet architectures support
+
+# References
+
+* [RegNet: Self-Regulated Network for Image Classification](https://arxiv.org/abs/2101.00590)
+* [Pytorch](https://pytorch.org/)
+* [Tensorflow](https://www.tensorflow.org/)
+
